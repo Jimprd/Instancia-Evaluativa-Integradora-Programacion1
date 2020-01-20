@@ -1,0 +1,5 @@
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\obj\Debug\CapaDatos.pdb

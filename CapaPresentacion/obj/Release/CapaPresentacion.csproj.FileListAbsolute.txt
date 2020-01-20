@@ -1,0 +1,7 @@
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaPresentacion\obj\Release\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaPresentacion\obj\Release\CapaPresentacion.FormArticulos.resources
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaPresentacion\obj\Release\CapaPresentacion.FormNotaCompra.resources
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaPresentacion\obj\Release\CapaPresentacion.FormNotaVenta.resources
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaPresentacion\obj\Release\CapaPresentacion.frmPrincipal.resources
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.Cache

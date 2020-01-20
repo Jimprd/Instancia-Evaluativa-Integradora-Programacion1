@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CA996CF0-7DA7-49BA-888A-EE635B43EB3C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="FormArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArticulos.Designer.cs">
+      <DependentUpon>FormArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotaCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotaCompra.Designer.cs">
+      <DependentUpon>FormNotaCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNotaVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNotaVenta.Designer.cs">
+      <DependentUpon>FormNotaVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormVistaArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVistaArticulo.Designer.cs">
+      <DependentUpon>FormVistaArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmVistaArticuloVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmVistaArticuloVenta.Designer.cs">
+      <DependentUpon>FrmVistaArticuloVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormFacturar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormFacturar.Designer.cs">
+      <DependentUpon>FormFacturar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormReportArtic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormReportArtic.Designer.cs">
+      <DependentUpon>FormReportArtic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FormReporteNCompras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FormReporteNCompras.Designer.cs">
+      <DependentUpon>FormReporteNCompras.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaNegocios\CapaNegocios.csproj">
+      <Project>{3808de5f-899c-4424-992c-9069244f8204}</Project>
+      <Name>CapaNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormArticulos.resx">
+      <DependentUpon>FormArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotaCompra.resx">
+      <DependentUpon>FormNotaCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNotaVenta.resx">
+      <DependentUpon>FormNotaVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVistaArticulo.resx">
+      <DependentUpon>FormVistaArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmVistaArticuloVenta.resx">
+      <DependentUpon>FrmVistaArticuloVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\Facturar.rdlc" />
+    <EmbeddedResource Include="Reportes\FormFacturar.resx">
+      <DependentUpon>FormFacturar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormReportArtic.resx">
+      <DependentUpon>FormReportArtic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FormReporteNCompras.resx">
+      <DependentUpon>FormReporteNCompras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReportArticulos.rdlc" />
+    <EmbeddedResource Include="Reportes\ReportCompras.rdlc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="MiDataSet.xsc">
+      <DependentUpon>MiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MiDataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MiDataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="MiDataSet.xss">
+      <DependentUpon>MiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

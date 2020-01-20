@@ -1,0 +1,3 @@
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Release\SistemaVentas.exe.config
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\obj\Release\SistemaVentas.Properties.Resources.resources
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\obj\Release\SistemaVentas.csproj.GenerateResource.Cache

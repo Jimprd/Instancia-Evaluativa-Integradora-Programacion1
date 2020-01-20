@@ -1,0 +1,7 @@
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaNegocios\bin\Release\CapaNegocios.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaNegocios\bin\Release\CapaNegocios.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaNegocios\bin\Release\CapaDatos.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaNegocios\bin\Release\CapaDatos.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaNegocios\obj\Release\CapaNegocios.csprojResolveAssemblyReference.cache
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaNegocios\obj\Release\CapaNegocios.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaNegocios\obj\Release\CapaNegocios.pdb

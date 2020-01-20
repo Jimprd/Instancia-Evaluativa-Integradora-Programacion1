@@ -1,0 +1,4 @@
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\bin\Release\CapaDatos.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\bin\Release\CapaDatos.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\obj\Release\CapaDatos.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\CapaDatos\obj\Release\CapaDatos.pdb

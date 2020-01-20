@@ -1,0 +1,27 @@
+D:\Users\Jimprd\Desktop\Desarrollo Software\01 Año\Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojResolveAssemblyReference.cache
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.Cache
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\CapaPresentacion.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\CapaNegocios.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\CapaDatos.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\CapaPresentacion.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\CapaNegocios.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\CapaDatos.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Biblioteca Programacion\CSharp\SistemaVentas\SistemaVentas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
